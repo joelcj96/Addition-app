@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Addition-app/static/css/main.22386efc.css",
+    "main.js": "/Addition-app/static/js/main.49991672.js",
+    "index.html": "/Addition-app/index.html",
+    "main.22386efc.css.map": "/Addition-app/static/css/main.22386efc.css.map",
+    "main.49991672.js.map": "/Addition-app/static/js/main.49991672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22386efc.css",
+    "static/js/main.49991672.js"
+  ]
+}
